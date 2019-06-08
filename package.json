@@ -1,10 +1,10 @@
 {
-  "name": "193x-final-project",
+  "name": "final-mdb-j850906836-master",
   "version": "1.0.0",
   "description": "CS193X Final Project",
   "main": "server.js",
   "engines": {
-    "node": "7x"
+    "node": "12x"
   },
   "dependencies": {
     "body-parser": "^1.17.1",
